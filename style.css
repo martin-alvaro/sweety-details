@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #FFFEF0;
+
+}
+
+header {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('/assets/fondo.jpeg');
+    background-size: contain;
+    border-bottom: 1px solid#FF83A8;
+    margin-bottom: 60px;
+
+}
+
+h1 {
+    font-size: 55px;
+    font-family: 'Lucida Handwriting', cursive;
+    color: #FF83A8;
+    font: weight 500px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;         
+    justify-content: center; 
+    justify-items: center;
+    gap: 30px;               
+    padding: 40px;
+}
+
+
+
+.seccion {
+    width: 200px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.8);   
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.seccion:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.seccion img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
