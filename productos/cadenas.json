@@ -1,0 +1,46 @@
+{
+  "categoria": "Cadenas",
+  "productos": [{
+      "id": 1,
+      "nombre": "Cadena Corazon",
+      "precio": "$2300",
+      "imagen": "./assets/cadenas/cadena1.jpeg"
+    },
+    {
+      "id": 2,
+      "nombre": "Cadena Moño",
+      "precio": "$2600",
+      "imagen": "./assets/cadenas/cadena2.jpeg"
+    },
+     {
+      "id": 3,
+      "nombre": "Cadena Perlas",
+      "precio": "$2400",
+      "imagen": "./assets/cadenas/cadena3.jpeg"
+    },
+     {
+      "id": 4,
+      "nombre": "Cadena Redondeles",
+      "precio": "$1900",
+      "imagen": "./assets/cadenas/cadena4.jpeg"
+    },
+     {
+      "id": 5,
+      "nombre": "Cadena Estrellitas",
+      "precio": "$2000",
+      "imagen": "./assets/cadenas/cadena5.jpeg"
+    },
+     {
+      "id": 6,
+      "nombre": "Cadena Mariposa",
+      "precio": "$2900",
+      "imagen": "./assets/cadenas/cadena6.jpeg"
+    },
+     {
+      "id": 7,
+      "nombre": "Cadena Mini Mariposa",
+      "precio": "$2200",
+      "imagen": "./assets/cadenas/cadena7.jpeg"
+    }
+  ]
+}

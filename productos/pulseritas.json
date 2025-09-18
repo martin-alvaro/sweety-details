@@ -1,0 +1,160 @@
+{
+  "categoria": "Pulseritas",
+  "productos": [{
+      "id": 0,
+      "nombre": "Pulserita Clasica Dorada",
+      "precio": 1500,
+      "imagen": "./assets/pulseras/pulsera0.jpeg"
+    },
+    {
+      "id":1 ,
+      "nombre": "Pulsera Perlitas",
+      "precio":"$1700",
+      "imagen": "./assets/pulseras/pulsera1.jpeg"
+    },
+     {  
+      "id":2,
+      "nombre": "Pulsera Corazon",
+      "precio": "$2200",
+      "imagen": "./assets/pulseras/pulsera2.jpeg"
+    },
+      {
+      "id":3,
+      "nombre": "Pulsera Banda",
+      "precio": "$1800",
+      "imagen": "./assets/pulseras/pulsera3.jpeg"
+    },
+      {
+      "id":4,
+      "nombre": "Pulsera Pelota Dorada",
+      "precio": "$2200",
+      "imagen": "./assets/pulseras/pulsera2.jpeg"
+    },
+      {
+      "id":5,
+      "nombre": "Pulsera Clips",
+      "precio": "$1600",
+      "imagen": "./assets/pulseras/pulsera5.jpeg"
+    },
+      {
+      "id":6,
+      "nombre": "Pulsera Mini Clips Dorada",
+      "precio": "$1750",
+      "imagen": "./assets/pulseras/pulsera6.jpeg"
+    },
+      {
+      "id":7,
+      "nombre": "Pulsera Correa",
+      "precio": "$1650",
+      "imagen": "./assets/pulseras/pulsera7.jpeg"
+    },
+      {
+      "id":8,
+      "nombre": "Pulsera Brillos",
+      "precio": "$1850",
+      "imagen": "./assets/pulseras/pulsera8.jpeg"
+    },
+      {
+      "id":9,
+      "nombre": "Pulsera Corazoncitos Dorada",
+      "precio": "$1650",
+      "imagen": "./assets/pulseras/pulsera9.jpeg"
+    },
+      {
+      "id":10,
+      "nombre": "Pulsera Basica Dorada ",
+      "precio": "$1750",
+      "imagen": "./assets/pulseras/pulsera10.jpeg"
+    },
+      {
+      "id":11,
+      "nombre": "Pulsera Pelotitas Dorada",
+      "precio": "$1800",
+      "imagen": "./assets/pulseras/pulsera11.jpeg"
+    },
+      {
+      "id":12,
+      "nombre": "Pulsera Gruesa Dorada",
+      "precio": "$2300",
+      "imagen": "./assets/pulseras/pulsera12.jpeg"
+    },
+      {
+      "id":13,
+      "nombre": "Brazalete",
+      "precio": "$1500",
+      "imagen": "./assets/pulseras/pulsera13.jpeg"
+    },
+      {
+      "id":14,
+      "nombre": "Pulsera Clasica Plateada",
+      "precio": "$1600",
+      "imagen": "./assets/pulseras/pulsera14.jpeg"
+    },
+      {
+      "id":15,
+      "nombre": "Pulsera Mini Gruesa Dorada",
+      "precio": "$1900",
+      "imagen": "./assets/pulseras/pulsera15.jpeg"
+    },
+      {
+      "id":16,
+      "nombre": "Pulsera Finita",
+      "precio": "$1700",
+      "imagen": "./assets/pulseras/pulsera16.jpeg"
+    },
+      {
+      "id":17,
+      "nombre": "Pulsera Corazoncitos Plateadas ",
+      "precio": "$1700",
+      "imagen": "./assets/pulseras/pulsera17.jpeg"
+    },
+      {
+      "id":18,
+      "nombre": "Pulsera Miniclips Plateada",
+      "precio": "$1700",
+      "imagen": "./assets/pulseras/pulsera18.jpeg"
+    },
+      {
+      "id":19,
+      "nombre": "Pulsera Finita",
+      "precio": "$1750",
+      "imagen": "./assets/pulseras/pulsera19.jpeg"
+    },
+      {
+      "id":20,
+      "nombre": "Pulsera Basica Plateada",
+      "precio": "$1700",
+      "imagen": "./assets/pulseras/pulsera20.jpeg"
+    },
+      {
+      "id":21,
+      "nombre": "Pulsera Mini Ovalada",
+      "precio": "$1700",
+      "imagen": "./assets/pulseras/pulsera21.jpeg"
+    },
+      {
+      "id":22,
+      "nombre": "Pulsera Gruesa Plateada",
+      "precio": "$2100",
+      "imagen": "./assets/pulseras/pulsera22.jpeg"
+    },
+      {
+      "id":23,
+      "nombre": "Pulsera Pelotitas Plateada",
+      "precio": "$1900",
+      "imagen": "./assets/pulseras/pulsera23.jpeg"
+    },
+      {
+      "id":24,
+      "nombre": "Pulsera Mini Gruesa Plateada",
+      "precio": "$1800",
+      "imagen": "./assets/pulseras/pulsera24.jpeg"
+    },
+      {
+      "id":25,
+      "nombre": "Pulsera Pelotitas Dora",
+      "precio": "$1600",
+      "imagen": "./assets/pulseras/pulsera25.jpeg"
+    }
+  ]
+}

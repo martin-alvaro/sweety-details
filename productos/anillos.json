@@ -1,0 +1,395 @@
+{
+  "categoria": "Anillos",
+  "productos": [{
+      "id": 1,
+      "nombre": "Anillo 1",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo1.jpeg"
+    },
+    {
+      "id": 2,
+      "nombre": "Anillo 2",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo2.jpeg"
+    },
+    {
+      "id": 3,
+      "nombre": "Anillo 3",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo3.jpeg"
+    },
+    {
+      "id": 4,
+      "nombre": "Anillo 4",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo4.jpeg"
+    },
+    {
+      "id": 5,
+      "nombre": "Anillo 5",
+      "precio": "$1400",
+      "imagen": "../assets/anillos/anillo5.jpeg"
+    },
+    {
+      "id": 6,
+      "nombre": "Anillo 6",
+      "precio": "$1400",
+      "imagen": "../assets/anillos/anillo6.jpeg"
+    },
+    {
+      "id": 7,
+      "nombre": "Anillo 7",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo7.jpeg"
+    },
+    {
+      "id": 8,
+      "nombre": "Anillo 8",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo8.jpeg"
+    },
+    {
+      "id": 9,
+      "nombre": "Anillo 9",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo9.jpeg"
+    },
+    {
+      "id": 10,
+      "nombre": "Anillo 10",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo10.jpeg"
+    },
+    {
+      "id": 11,
+      "nombre": "Anillo 11",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo11.jpeg"
+    },
+    {
+      "id": 12,
+      "nombre": "Anillo 12",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo12.jpeg"
+    },
+    {
+      "id": 13,
+      "nombre": "Anillo 13",
+      "precio": "$13000",
+      "imagen": "../assets/anillos/anillo13.jpeg"
+    },
+    {
+      "id": 14,
+      "nombre": "Anillo 14",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo14.jpeg"
+    },
+    {
+      "id": 15,
+      "nombre": "Anillo 15",
+      "precio": "1200",
+      "imagen": "../assets/anillos/anillo15.jpeg"
+    },
+    {
+      "id": 16,
+      "nombre": "Anillo 16",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo16.jpeg"
+    },
+    {
+      "id": 17,
+      "nombre": "Anillo 17",
+      "precio": "$1250",
+      "imagen": "../assets/anillos/anillo17.jpeg"
+    },
+    {
+      "id": 18,
+      "nombre": "Anillo 18",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo18.jpeg"
+    },
+    {
+      "id": 19,
+      "nombre": "Anillo 19",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo19.jpeg"
+    },
+    {
+      "id": 20,
+      "nombre": "Anillo 20",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo20.jpeg"
+    },
+    {
+      "id": 21,
+      "nombre": "Anillo 21",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo21.jpeg"
+    },
+    {
+      "id": 22,
+      "nombre": "Anillo 22",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo22.jpeg"
+    },
+    {
+      "id": 23,
+      "nombre": "Anillo 23",
+      "precio": "$1000",
+      "imagen": "../assets/anillos/anillo23.jpeg"
+    },
+    {
+      "id": 24,
+      "nombre": "Anillo 24",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo24.jpeg"
+    },
+    {
+      "id": 25,
+      "nombre": "Anillo 25",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo25.jpeg"
+    },
+    {
+      "id": 26,
+      "nombre": "Anillo 26",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo26.jpeg"
+    },
+    {
+      "id": 27,
+      "nombre": "Anillo 27",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo27.jpeg"
+    },
+    {
+      "id": 28,
+      "nombre": "Anillo 28",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo28.jpeg"
+    },
+    {
+      "id": 29,
+      "nombre": "Anillo 29",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo29.jpeg"
+    },
+    {
+      "id": 30,
+      "nombre": "Anillo 30",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo30.jpeg"
+    },
+    {
+      "id": 31,
+      "nombre": "Anillo 31",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo31.jpeg"
+    },
+    {
+      "id": 32,
+      "nombre": "Anillo 32",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo32.jpeg"
+    },
+    {
+      "id": 33,
+      "nombre": "Anillo 33",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo33.jpeg"
+    },
+    {
+      "id": 34,
+      "nombre": "Anillo 34",
+      "precio": "$1400",
+      "imagen": "../assets/anillos/anillo34.jpeg"
+    },
+    {
+      "id": 35,
+      "nombre": "Anillo 35",
+      "precio": "$1400",
+      "imagen": "../assets/anillos/anillo35.jpeg"
+    },
+    {
+      "id": 36,
+      "nombre": "Anillo 36",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo36.jpeg"
+    },
+    {
+      "id": 37,
+      "nombre": "Anillo 37",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo37.jpeg"
+    },
+    {
+      "id": 38,
+      "nombre": "Anillo 38",
+      "precio": "$1400",
+      "imagen": "../assets/anillos/anillo38.jpeg"
+    },
+    {
+      "id": 39,
+      "nombre": "Anillo 39",
+      "precio": "$1400",
+      "imagen": "../assets/anillos/anillo39.jpeg"
+    },
+    {
+      "id": 40,
+      "nombre": "Anillo 40",
+      "precio": "$1400",
+      "imagen": "../assets/anillos/anillo40.jpeg"
+    },
+    {
+      "id": 41,
+      "nombre": "Anillo 41",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo41.jpeg"
+    },
+    {
+      "id": 42,
+      "nombre": "Anillo 42",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo42.jpeg"
+    },
+    {
+      "id": 43,
+      "nombre": "Anillo 43",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo43.jpeg"
+    },
+    {
+      "id": 44,
+      "nombre": "Anillo 44",
+      "precio": "$1400",
+      "imagen": "../assets/anillos/anillo44.jpeg"
+    },
+    {
+      "id": 45,
+      "nombre": "Anillo 45",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo45.jpeg"
+    },
+    {
+      "id": 46,
+      "nombre": "Anillo 46",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo46.jpeg"
+    },
+    {
+      "id": 47,
+      "nombre": "Anillo 47",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo47.jpeg"
+    },
+    {
+      "id": 48,
+      "nombre": "Anillo 48",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo48.jpeg"
+    },
+    {
+      "id": 49,
+      "nombre": "Anillo 49",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo49.jpeg"
+    },
+    {
+      "id": 50,
+      "nombre": "Anillo 50",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo50.jpeg"
+    },
+    {
+      "id": 51,
+      "nombre": "Anillo 51",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo51.jpeg"
+    },
+    {
+      "id": 52,
+      "nombre": "Anillo 52",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo52.jpeg"
+    },
+    {
+      "id": 53,
+      "nombre": "Anillo 53",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo53.jpeg"
+    },
+    {
+      "id": 54,
+      "nombre": "Anillo 54",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo54.jpeg"
+    },
+    {
+      "id": 55,
+      "nombre": "Anillo 55",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo55.jpeg"
+    },
+    {
+      "id": 56,
+      "nombre": "Anillo 56",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo56.jpeg"
+    },
+    {
+      "id": 57,
+      "nombre": "Anillo 57",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo57.jpeg"
+    },
+    {
+      "id": 58,
+      "nombre": "Anillo 58",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo58.jpeg"
+    },
+    {
+      "id": 59,
+      "nombre": "Anillo 59",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo59.jpeg"
+    },
+    {
+      "id": 60,
+      "nombre": "Anillo 60",
+      "precio": "$1000",
+      "imagen": "../assets/anillos/anillo60.jpeg"
+    },
+    {
+      "id": 61,
+      "nombre": "Anillo 61",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo61.jpeg"
+    },
+    {
+      "id": 62,
+      "nombre": "Anillo 62",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo62.jpeg"
+    },
+    {
+      "id": 63,
+      "nombre": "Anillo 63",
+      "precio": "$1100",
+      "imagen": "../assets/anillos/anillo63.jpeg"
+    },
+    {
+      "id": 64,
+      "nombre": "Anillo 64",
+      "precio": "$1200",
+      "imagen": "../assets/anillos/anillo64.jpeg"
+    },
+    {
+      "id": 65,
+      "nombre": "Anillo 65",
+      "precio": "$1300",
+      "imagen": "../assets/anillos/anillo65.jpeg"
+    }
+
+  ]
+}

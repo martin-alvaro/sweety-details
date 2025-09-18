@@ -1,0 +1,40 @@
+{
+  "categoria": "Aritos",
+  "productos": [{
+      "id": 1,
+      "nombre": "Modelos aritos 1",
+      "precio": "$1500-$1700",
+      "imagen": "./assets/aritos/pack1.png"
+    },
+    {
+       "id": 2,
+      "nombre": "Modelos aritos 2",
+      "precio": "$1000-$2000",
+      "imagen": "./assets/aritos/pack2.png"
+    },
+      {
+       "id": 3,
+      "nombre": "Modelos aritos 3",
+      "precio": "$1500- $2000",
+      "imagen": "./assets/aritos/pack3.png"
+    }, 
+      {
+       "id": 4,
+       "nombre": "Modelos aritos 4",
+       "precio": "$1500-$1800",
+       "imagen": "./assets/aritos/pack4.png"
+    },
+      {
+       "id": 5,
+      "nombre": "Modelos aritos 5",
+      "precio": "$1600-$1800",
+      "imagen": "./assets/aritos/pack5.jpeg"
+    },
+      {
+       "id": 6,
+      "nombre": "Aritos Plateados",
+      "precio": "$1500-$1800",
+      "imagen": "./assets/aritos/plateados.jpeg"
+    } 
+  ]
+}

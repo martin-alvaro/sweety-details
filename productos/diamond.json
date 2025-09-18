@@ -1,0 +1,16 @@
+{
+  "categoria": "Diamond",
+  "productos": [{
+      "id": 1,
+      "nombre": "Noche estrellada rosa",
+      "precio": "$9000",
+      "imagen": "../assets/diamond/nocherosa.jpeg"
+    },
+    {
+      "id": 2,
+      "nombre": "Playa",
+      "precio": "$8500",
+      "imagen": "./assets/diamond/playa.jpeg"
+    }
+  ]
+}

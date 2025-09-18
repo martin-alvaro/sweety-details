@@ -1,0 +1,10 @@
+{
+  "categoria": "Cartucheras",
+  "productos": [{
+      "id": 1,
+      "nombre": "Cartuchera peluchito rosa",
+      "precio": "$7500",
+      "imagen": "../assets/cartuchera/cartuchera.jpeg"
+    }
+  ]
+}
