@@ -3,7 +3,7 @@
   "productos": [{
       "id": 0,
       "nombre": "Pulserita Clasica Dorada",
-      "precio": 1500,
+      "precio": "$1500",
       "imagen": "./assets/pulseras/pulsera0.jpeg"
     },
     {

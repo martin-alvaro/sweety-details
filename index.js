@@ -37,3 +37,25 @@ function cargarProductos() {
 }
 
 document.addEventListener("DOMContentLoaded", cargarProductos);
+
+const modal = document.getElementById("modalImagen");
+const modalImg = document.getElementById("imgAmpliada");
+const cerrar = document.querySelector(".cerrar");
+
+document.addEventListener("click", function (e) {
+  if (e.target.tagName === "IMG" && e.target.closest(".card")) {
+    modal.style.display = "block";
+    modalImg.src = e.target.src;
+  }
+});
+
+cerrar.onclick = function() {
+  modal.style.display = "none";
+};
+
+modal.onclick = function(e) {
+  if (e.target === modal) {
+    modal.style.display = "none";
+  }
+};
+
